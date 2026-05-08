@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-05-08T00:00:00Z",
+  "bundles": {
+    "core-product": {
+      "name": "Core Product Management",
+      "description": "End-to-end product management: strategy, discovery, delivery, leadership, and operating model.",
+      "skills": ["product-strategy","product-discovery","product-delivery","product-leadership","product-operating-model"],
+      "target": "Product Managers, CPOs"
+    },
+    "architecture": {
+      "name": "Product Architecture",
+      "description": "Technical product and systems design.",
+      "skills": ["product-architecture"],
+      "target": "Technical PMs, Architects"
+    },
+    "growth": {
+      "name": "Growth & GTM",
+      "description": "Go-to-market strategy and startup growth frameworks.",
+      "skills": ["abx-strategy","startup-growth-strategist"],
+      "target": "Founders, GTM leads, Strategists"
+    },
+    "all": {
+      "name": "All Product Skills",
+      "description": "Complete product management and strategy toolkit — all 8 skills.",
+      "skills": ["product-strategy","product-discovery","product-delivery","product-leadership",
+                 "product-architecture","product-operating-model","abx-strategy","startup-growth-strategist"],
+      "target": "PMs, Founders, Strategists"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "product-superskills",
+  "owner": {
+    "name": "Eric Andrade",
+    "email": "egandrade@gmail.com"
+  },
+  "metadata": {
+    "description": "8 skills for product managers and strategists: product strategy, discovery, delivery, leadership, architecture, operating model, ABX strategy, and startup growth."
+  },
+  "plugins": [
+    {
+      "name": "product-superskills",
+      "source": {
+        "source": "github",
+        "repo": "ericgandrade/product-superskills"
+      },
+      "description": "8 skills for product managers and strategists: product strategy, discovery, delivery, leadership, architecture, operating model, ABX strategy, and startup growth.",
+      "author": {
+        "name": "Eric Andrade"
+      },
+      "homepage": "https://github.com/ericgandrade/product-superskills",
+      "repository": "https://github.com/ericgandrade/product-superskills",
+      "license": "MIT",
+      "keywords": ["product-management", "strategy", "gtm", "abx", "startup"],
+      "category": "productivity",
+      "tags": ["product-management", "strategy", "gtm", "startup"]
+    }
+  ]
+}

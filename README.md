@@ -1,4 +1,4 @@
-# 📦 Product Superskills v1.0.0
+# 📦 Product Superskills v1.0.1
 
 8 AI skills for product management, strategy, GTM, and startup growth. A composable Modern Product Operating Model — install once across all 8 AI platforms.
 

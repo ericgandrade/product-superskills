@@ -51,17 +51,17 @@ async function revertPartialInstalls() {
         removed++;
       }
     } catch (err) {
-      console.log(chalk.red(`  ✗ Erro ao remover ${installPath}: ${err.message}`));
+      console.log(chalk.red(`  ✗ Error removing ${installPath}: ${err.message}`));
       failed++;
     }
   }
   
   if (removed > 0) {
-    console.log(chalk.green(`\n✅ Cleanup concluído (${removed} removidos).\n`));
+    console.log(chalk.green(`\n✅ Cleanup complete (${removed} removed).\n`));
   }
   
   if (failed > 0) {
-    console.log(chalk.yellow(`⚠️  ${failed} itens falharam ao remover.\n`));
+    console.log(chalk.yellow(`⚠️  ${failed} items failed to remove.\n`));
   }
   
   clearPartialInstalls();

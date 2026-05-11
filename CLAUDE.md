@@ -2,7 +2,7 @@
 
 **product-superskills** — 8 AI skills for product management, strategy, GTM, and startup growth.
 
-- **npm package**: `product-superskills` (v1.0.1) — `npx product-superskills` — **8 skills**
+- **npm package**: `product-superskills` (v1.0.2) — `npx product-superskills` — **8 skills**
 - **GitHub**: `https://github.com/ericgandrade/product-superskills`
 
 ## Skills (8)

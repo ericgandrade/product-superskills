@@ -1,6 +1,6 @@
 {
   "name": "product-superskills",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "8 AI skills for product management, strategy, and GTM — product discovery, delivery, architecture, ABX, and startup growth. Works with Claude Code, GitHub Copilot, and 6 more AI platforms.",
   "main": "lib/index.js",
   "bin": {

@@ -1,6 +1,6 @@
 {
   "name": "product-superskills",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "8 AI skills for product management, product strategy, GTM, ABX, and startup growth.",
   "author": {
     "name": "Eric Andrade",
@@ -10,5 +10,13 @@
   "repository": "https://github.com/ericgandrade/product-superskills",
   "license": "MIT",
   "skills": "skills/",
-  "keywords": ["product-management", "strategy", "gtm", "abx", "startup", "ai", "skills"]
+  "keywords": [
+    "product-management",
+    "strategy",
+    "gtm",
+    "abx",
+    "startup",
+    "ai",
+    "skills"
+  ]
 }
